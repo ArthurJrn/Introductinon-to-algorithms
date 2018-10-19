@@ -2,7 +2,7 @@
 
 """
 Created: Oct. 18th, 2018
-Implementation of the well-known MatrixProduct algorithm
+Implementation of the naive MatrixProduct algorithm
 Author: Arthur Journe
 """
 
